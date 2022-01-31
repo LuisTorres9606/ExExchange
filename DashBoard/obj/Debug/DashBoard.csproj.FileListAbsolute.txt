@@ -1,0 +1,15 @@
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\obj\Debug\MainWindow.g.cs
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\obj\Debug\App.g.cs
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\obj\Debug\DashBoard_MarkupCompile.cache
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\obj\Debug\DashBoard_MarkupCompile.lref
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\obj\Debug\MainWindow.baml
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\obj\Debug\DashBoard.g.resources
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\DashBoard\obj\Debug\DashBoard.pdb

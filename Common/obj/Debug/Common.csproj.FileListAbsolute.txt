@@ -1,0 +1,12 @@
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\Protecto\Common\bin\Debug\Common.dll
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\Protecto\Common\bin\Debug\Common.pdb
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\Protecto\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\Protecto\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\Protecto\Common\obj\Debug\Common.dll
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\Protecto\Common\obj\Debug\Common.pdb
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\Common\bin\Debug\Common.dll
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\Common\bin\Debug\Common.pdb
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\Common\obj\Debug\Common.dll
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\Common\obj\Debug\Common.pdb
+C:\Users\Ltorr\OneDrive\Universidad\Programación\III\ExExchange\Common\obj\Debug\Common.csproj.AssemblyReference.cache
